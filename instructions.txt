@@ -2,8 +2,5 @@ This is instruction file
 
 File uploaded by Pune developer
 
-<<<<<<< HEAD
 This file updted by Banglore developer
-=======
 File updated by Banglore developer
->>>>>>> banglore
